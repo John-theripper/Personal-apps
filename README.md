@@ -1,16 +1,3 @@
-# alert_app
+This application is designed to provide emergency alert notifications, aimed at studying the effectiveness of emergency alerts in local areas. The app helps users report emergencies or request assistance in a timely manner through Android and iOS platforms. It allows users to send GPS coordinates of incidents, making it accessible for the general public aged 18–60. Developed using Flutter with Dart programming language, the app uses Firebase for backend functionality. The tool also employs basic statistical analysis, such as average and standard deviation, for data processing."
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can use this translation in your README.md file to describe the app’s purpose. Let me know if you need any further adjustments!
